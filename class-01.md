@@ -80,7 +80,14 @@ Comments aren’t visible on the page. They are used to make the code easier to 
 
 **ID attribute**
 
-Uniquely identifies an element from other elements on the page. Should only be used on one element on the page. Should start with a letter or underscore. This allows you to style the element in a different way than other instances of the same element on the page. 
+Uniquely identifies an element from other elements on the page. 
+
+Should only be used on one element on the page. 
+
+Should start with a letter or underscore. 
+
+Allows you to style the element in a different way than other instances of the same element on the page. 
+
 Example: `<p id=”ordernumber”>1234</p>`
 
 **Class attribute**
@@ -267,8 +274,11 @@ Example line of JavaScript that shows how to use objects and methods also known 
  `document.write(‘Good afternoon! ‘);`
 
 `document` = Object
+
 `.` = Member Operator
+
 `write()` = Method which allows new content to be written on the page where the `<script>` element sits
+
 `‘Good afternoon! ‘` = Parameters – information the method requires in order to work; in this case, the write() method needs to know what to write on the page
 
 JavaScript runs where it’s found in the HTML. When the browser gets to a `<script>` element, it loads the script and then checks to see if it needs to do anything.
