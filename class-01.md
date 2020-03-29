@@ -270,7 +270,7 @@ To use JavaScript with a web page, use the `<script>` element. The `src` attribu
 
 Although you can put JavaScript directly into a page between opening `<script>` and closing `</script>` tags, it’s best to put scripts in their own files.
 
-Example line of JavaScript that shows how to use objects and methods also known as calling a method of an object:
+Example line of JavaScript that shows how to use objects and methods, also known as _calling a method of an object_:
  `document.write(‘Good afternoon! ‘);`
 
 `document` = Object
