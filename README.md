@@ -10,6 +10,6 @@ I created a [learning journal](https://marlene-rinker.github.io/learning-journal
 ## Code 201 - Foundations of Software Development
 _March - April 2020_
 
-[Class 1 Notes](https://marlene-rinker.github.io/reading-notes/class-01) 
+[Class 1 Reading Notes](https://marlene-rinker.github.io/reading-notes/class-01) 
 
 
