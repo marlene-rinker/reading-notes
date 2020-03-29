@@ -1,6 +1,6 @@
-## Reading Assignment Notes
+## Code 201 Reading Assignment Notes - Class 1
 
-_3/30/2020_
+_March 30, 2020_
 
 ### Jon Duckett HTML & CSS Book
 
