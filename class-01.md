@@ -60,7 +60,7 @@ Most attributes can only be used with certain elements. The attribute values are
 
 `<title>` - contents of this element are shown in the top of the browser or on the tab for the page, depending on your browser
 
-**View Source**: Use this to view the source code that made up a website. Right click on a page and choose View Page Source. Can also choose Inspect.
+**View Source**: Use this to view the source code that made up a website. In Chrome, right click on a page and choose View Page Source. Can also choose Inspect. You can also find this and other tools under View > Developer.
 
 To learn HTML, you need to know what tags are available, what they do, and where they can go.
 
