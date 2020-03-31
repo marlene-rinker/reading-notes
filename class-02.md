@@ -96,7 +96,7 @@ After you create a variable, you tell it what you want it to store - assign it a
 
 A variable without an assigned value is **undefined**.
 
-### Data Types Stored in Variables
+#### Data Types Stored in Variables
 
 - Numbers
 
@@ -104,7 +104,7 @@ A variable without an assigned value is **undefined**.
 
 - Booleans (true or false)
 
-### Arrays
+#### Arrays
 
 An array is a variable that contains a list of values.
 
