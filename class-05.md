@@ -100,15 +100,17 @@ Print designers refer to text size in points. A pixel roughly equates to a point
 
 You can set the size using pixels, percentages, and ems.
 
-Pixels - best way to ensure the type appears at the size you intended
+**Pixels** - best way to ensure the type appears at the size you intended
 
-Percentages - allow you to create a scale; the text may appear in a larger size than intended if the user changes the default size of their text; the scale will be right though
+**Percentages** - allow you to create a scale; the text may appear in a larger size than intended if the user changes the default size of their text; the scale will be right though
 
-Ems - allow you to change the size relative to the size of the text in the parent element; you can use similar rules as you would for percentages; the fonts could appear larger or smaller than intended if the user changes their default text size
+**Ems** - allow you to change the size relative to the size of the text in the parent element; you can use similar rules as you would for percentages; the fonts could appear larger or smaller than intended if the user changes their default text size
 
 Find conversions for 12 px scale and 16 px scale for each of these sizing options on p. 276.
 
-Pseudo-classes - used to change the style an element when a user hovers over or clicks on text, or if they've visited a link (:link, :visited, :hover, :active, :focus)
+#### Other things
+
+**Pseudo-classes** - used to change the style of an element when a user hovers over or clicks on text, or if they've visited a link (:link, :visited, :hover, :active, :focus)
 
 
 ---
