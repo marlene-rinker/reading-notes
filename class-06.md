@@ -1,3 +1,7 @@
+## Code 201 Reading Assignment Notes - Class 6
+
+_April 6, 2020_
+
 ### Simple Programmer Article
 [Understanding the Problem Domain is the Hardest Part of Programming](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)
 
