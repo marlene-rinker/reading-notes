@@ -185,14 +185,5 @@ Create an instance of the `Date` object, then you can specify the time and date 
 
 
 
-
-
-
-
-
-
-
-
-
 ---
 [Home page](https://marlene-rinker.github.io/reading-notes/)
