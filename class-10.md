@@ -18,7 +18,7 @@ Variables defined in a function are only available in that function (or executio
 
 #### Writing from the script to the console
 
--console.log() - used for general information
+- console.log() - used for general information
 
 - console.warn() - used for warnings
 
@@ -67,12 +67,13 @@ try {
 } finally {
   // this always gets executed
 }
+```
 
 #### Throwing Errors
 
 If you know something might cause a problem for your script, you can generate your own error messages before the interpreter creates them.
 
-`throw new Error('message');
+`throw new Error('message');`
 
 ---
 [Home page](https://marlene-rinker.github.io/reading-notes/)
