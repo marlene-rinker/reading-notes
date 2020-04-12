@@ -66,6 +66,15 @@ button:before {
 ```
 Use HTML and CSS to set up the interface and then JavaScript to get the buttons and controls working.
 
+### Flash, video and audio
+_Chapter 9: pages 201-206_
+
+Flash is an old technology for adding animations, video and audio to the web. It emerged in the 90s.
+
+Most browsers don't support Flash anymore. It's not supported on the iPhone or iPad.
+
+HTML5 introduced the `<video>` and `<audio>` elements to add video and audio. These are not supported in older browsers. Browsers that support the HTML5 elements don't all support the same audio and video formats. Provide your files in different formats to ensure that everyone can see/hear them.
+
 
 ---
 [Home page](https://marlene-rinker.github.io/reading-notes/)
