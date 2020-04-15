@@ -51,6 +51,7 @@ HTML5 Storage is based on named key/value pairs.
 The Using HTML5 Storage section of the article lists the syntax for different things you can do in HTML5 Storage.
 
 **Tracking HTML5 Storage**
+
 If you want to keep track programmatically of when the storage area changes, you can add an event listener. The storage event is fired on the window object whenever `setItem()`, `removeItem()`, or `clear()` is called and _actually changes something_. 
 
 The storage event is supported everywhere the `localStorage` object is supported.
