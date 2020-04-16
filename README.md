@@ -36,6 +36,8 @@ _March - April 2020_
 
 [Class 13 Reading Notes](https://marlene-rinker.github.io/reading-notes/class-13)
 
+[Class 14 Reading Notes](https://marlene-rinker.github.io/reading-notes/class-14)
+
 ## Code 301 - Intermediate Software Development
 _Future 2020_
 
