@@ -10,33 +10,33 @@ I created a [learning journal](https://marlene-rinker.github.io/learning-journal
 ## Code 201 - Foundations of Software Development
 _March - April 2020_
 
-[Class 1 Reading Notes](https://marlene-rinker.github.io/reading-notes/class-01) 
+[Class 1 Reading Notes](https://marlene-rinker.github.io/reading-notes/201/class-01) 
 
-[Class 2 Reading Notes](https://marlene-rinker.github.io/reading-notes/class-02)
+[Class 2 Reading Notes](https://marlene-rinker.github.io/reading-notes/201/class-02)
 
-[Class 3 Reading Notes](https://marlene-rinker.github.io/reading-notes/class-03)
+[Class 3 Reading Notes](https://marlene-rinker.github.io/reading-notes/201/class-03)
 
-[Class 4 Reading Notes](https://marlene-rinker.github.io/reading-notes/class-04)
+[Class 4 Reading Notes](https://marlene-rinker.github.io/reading-notes/201/class-04)
 
-[Class 5 Reading Notes](https://marlene-rinker.github.io/reading-notes/class-05)
+[Class 5 Reading Notes](https://marlene-rinker.github.io/reading-notes/201/class-05)
 
-[Class 6 Reading Notes](https://marlene-rinker.github.io/reading-notes/class-06)
+[Class 6 Reading Notes](https://marlene-rinker.github.io/reading-notes/201/class-06)
 
-[Class 7 Reading Notes](https://marlene-rinker.github.io/reading-notes/class-07)
+[Class 7 Reading Notes](https://marlene-rinker.github.io/reading-notes/201/class-07)
 
-[Class 8 Reading Notes](https://marlene-rinker.github.io/reading-notes/class-08)
+[Class 8 Reading Notes](https://marlene-rinker.github.io/reading-notes/201/class-08)
 
-[Class 9 Reading Notes](https://marlene-rinker.github.io/reading-notes/class-09)
+[Class 9 Reading Notes](https://marlene-rinker.github.io/reading-notes/201/class-09)
 
-[Class 10 Reading Notes](https://marlene-rinker.github.io/reading-notes/class-10)
+[Class 10 Reading Notes](https://marlene-rinker.github.io/reading-notes/201/class-10)
 
-[Class 11 Reading Notes](https://marlene-rinker.github.io/reading-notes/class-11)
+[Class 11 Reading Notes](https://marlene-rinker.github.io/reading-notes/201/class-11)
 
-[Class 12 Reading Notes](https://marlene-rinker.github.io/reading-notes/class-12)
+[Class 12 Reading Notes](https://marlene-rinker.github.io/reading-notes/201/class-12)
 
-[Class 13 Reading Notes](https://marlene-rinker.github.io/reading-notes/class-13)
+[Class 13 Reading Notes](https://marlene-rinker.github.io/reading-notes/201/class-13)
 
-[Class 14 Reading Notes](https://marlene-rinker.github.io/reading-notes/class-14)
+[Class 14 Reading Notes](https://marlene-rinker.github.io/reading-notes/201/class-14)
 
 ## Code 301 - Intermediate Software Development
 _Future 2020_
