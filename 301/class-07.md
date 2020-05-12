@@ -1,6 +1,6 @@
 ## Code 301 Reading Assignment Notes - Class 7
 
-_May 11, 2020_
+_May 12, 2020_
 
 ### Node.js
 
