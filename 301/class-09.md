@@ -16,7 +16,7 @@ Functions that read external files or relies on random numbers are not pure.
 
 Pure functions are easier to test.
 
-#### Imutability
+#### Immutability
 
 When data is immutable, its state cannot change after it’s created. If you want to change an immutable object, you can’t. Instead, you create a new object with the new value.
 
