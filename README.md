@@ -63,5 +63,7 @@ _May - June 2020_
 
 [Class 11 Reading Notes](https://marlene-rinker.github.io/reading-notes/301/class-11)
 
+[Class 12 Reading Notes](https://marlene-rinker.github.io/reading-notes/301/class-12)
+
 ## Code 401 - Advanced Software Development
 _Future 2020_
