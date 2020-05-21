@@ -4,7 +4,7 @@ _May 21, 2020_
 
 ### Database Normalization
 
-[Database Normalization (Explained in Simple Englist)](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
+[Database Normalization (Explained in Simple English)](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 
 Database normalization is a process to organize a database into tables and columns. The main idea is that a table should be about a specific topic and only supporting topics included. 
 
