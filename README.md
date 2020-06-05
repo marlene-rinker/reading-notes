@@ -72,4 +72,7 @@ _May - June 2020_
 [Class 15 Reading Notes](https://marlene-rinker.github.io/reading-notes/301/class-15)
 
 ## Code 401 - Advanced Software Development
-_Future 2020_
+_June - August 2020_
+
+[Class 0 Reading Notes](https://marlene-rinker.github.io/reading-notes/401/class-00)
+
