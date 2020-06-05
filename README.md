@@ -76,3 +76,5 @@ _June - August 2020_
 
 [Class 0 Reading Notes](https://marlene-rinker.github.io/reading-notes/401/class-00)
 
+[Class 1 Reading Notes](https://marlene-rinker.github.io/reading-notes/401/class-01)
+
