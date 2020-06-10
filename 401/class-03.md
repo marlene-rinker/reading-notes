@@ -20,7 +20,6 @@ _Sources_
 
 [Database Record](https://study.com/academy/lesson/database-record-definition-explanation.html#:~:text=A%20record%20in%20a%20database,columns%20of%20a%20typical%20spreadsheet.)
 
-[Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping#:~:text=Object%2Drelational%20mapping%20(ORM%2C,from%20within%20the%20programming%20language.)
 
 _**Why would a developer choose to make data models?**_ It provides a clear picture of the base data and can be used by database developers to create a physical database.
 It is also helpful to identify missing and redundant data.
