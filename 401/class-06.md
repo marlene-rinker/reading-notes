@@ -101,7 +101,7 @@ The swagger documentation service allows you to generate the swagger documentati
 
 [Swagger.io](https://swagger.io/)
 
-The linked article at the top of this page has steps for creating documentation using Swagger.
+The [HTTP and REST article](http://codefellows.github.io/code-401-javascript-guide/curriculum/class-06/DISCUSSION.html) has steps for creating documentation using Swagger.
 
 
 ### Additional Resources
