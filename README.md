@@ -88,3 +88,5 @@ _June - August 2020_
 
 [Class 6 Reading Notes](https://marlene-rinker.github.io/reading-notes/401/class-06)
 
+[Class 7 Reading Notes](https://marlene-rinker.github.io/reading-notes/401/class-07)
+
