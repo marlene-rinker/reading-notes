@@ -94,3 +94,5 @@ _June - August 2020_
 
 [Class 9 Reading Notes](https://marlene-rinker.github.io/reading-notes/401/class-09)
 
+[Class 10 Reading Notes](https://marlene-rinker.github.io/reading-notes/401/class-10)
+
