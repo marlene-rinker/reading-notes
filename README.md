@@ -104,3 +104,5 @@ _June - August 2020_
 
 [Class 14 Reading Notes](https://marlene-rinker.github.io/reading-notes/401/class-14)
 
+[Class 15 Reading Notes](https://marlene-rinker.github.io/reading-notes/401/class-15)
+
