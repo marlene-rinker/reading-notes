@@ -114,3 +114,7 @@ _June - August 2020_
 
 [Class 19 Reading Notes](https://marlene-rinker.github.io/reading-notes/401/class-19)
 
+_No reading notes for midterm project week_
+
+[Class 26 Reading Notes](https://marlene-rinker.github.io/reading-notes/401/class-26)
+
