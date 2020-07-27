@@ -138,4 +138,6 @@ _No reading notes for midterm project week_
 
 [Class 36 Reading Notes](https://marlene-rinker.github.io/reading-notes/401/class-36)
 
+[Class 37 Reading Notes](https://marlene-rinker.github.io/reading-notes/401/class-37)
+
 
