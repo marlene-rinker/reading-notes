@@ -144,4 +144,6 @@ _No reading notes for midterm project week_
 
 [Class 39 Reading Notes](https://marlene-rinker.github.io/reading-notes/401/class-39)
 
+_No reading notes for class 40_
 
+[Class 41 Reading Notes](https://marlene-rinker.github.io/reading-notes/401/class-41)
