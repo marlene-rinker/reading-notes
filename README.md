@@ -148,6 +148,6 @@ _No reading notes for class 40_
 
 [Class 41 Reading Notes](https://marlene-rinker.github.io/reading-notes/401/class-41)
 
-_No reading notes for class 40_
+_No reading notes for class 42_
 
 [Class 43 Reading Notes](https://marlene-rinker.github.io/reading-notes/401/class-43)
